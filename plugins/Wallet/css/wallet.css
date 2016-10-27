@@ -70,6 +70,9 @@
 .transaction-list table td {
 	font-size: 11px;
 }
+.transaction-list table .amount {
+	text-align: right;
+}
 .txid {
 	font-family: monospace;
 }
